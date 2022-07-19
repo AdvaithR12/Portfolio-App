@@ -1,0 +1,78 @@
+.landing{
+    background-image: url('https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80');
+    background-color: antiquewhite;
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:150px;
+    padding-bottom: 250px;
+
+}
+.sample{
+    font-size: 50px;
+}
+.servicehead{
+    font-size: large;
+}
+.hireme{
+    
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        
+      
+}
+
+.hireme:hover {background-color: #badabb}
+
+.services{
+    background: #000;
+    padding: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.Testimonyheader{
+    font-size: 40px;
+}
+.servicesheader{
+    font-size: 40px;
+}
+
+#carouselExampleInterval{
+    width: 90%;
+}
+#carouselExampleInterval .carousel-item{
+    height: 400px;
+    width: 1200px;
+    border-radius: 8px;
+    background-color: rgb(100, 124, 124);
+    text-align: center;
+}
+#carouselExampleInterval img{
+    height: 400px;
+    width: 500px;
+    border-radius: 8px;
+}
+/* h1{
+    color: white;
+    font-family: 'Brush Script MT', cursive;text-align: center;
+ } */
+ /* h3{
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
+ h4{
+    font-family: Arial, Helvetica, sans-serif
+ } */
+.slide{
+    margin-left: 70px;
+}
+
+/* .icon{
+    font-size: 50px;
+} */
